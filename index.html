@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>套餐价格快速计算器</title>
+    <style>
+        *{margin: 0;padding: 0;box-sizing: border-box;}
+        body{padding: 20px; font-family: "微软雅黑",sans-serif; background: #f5f5f5;}
+        .box{max-width: 600px; margin: 0 auto; background: #fff; padding: 25px; border-radius: 8px; box-shadow: 0 0 8px #eee;}
+        .tip{background: #fff3cd; padding: 15px; border-radius: 6px; line-height: 1.8; margin-bottom: 20px; font-size: 14px; color: #333;}
+        .radio-wrap{margin-bottom: 15px;}
+        .radio-wrap label{margin-right: 20px; font-size: 15px;}
+        .input-wrap{display: flex; gap: 10px; margin-bottom: 20px;}
+        #priceInput{flex: 1; padding: 10px 12px; border: 1px solid #ccc; border-radius: 4px; font-size: 15px;}
+        #searchBtn{padding: 10px 20px; background: #2d8cf0; color: #fff; border: none; border-radius: 4px; cursor: pointer;}
+        .result{margin-top: 20px; padding: 15px; border: 1px solid #eee; border-radius: 6px; line-height: 2; font-size: 15px;}
+        .result h4{margin-bottom: 8px; color: #2d8cf0;}
+    </style>
+</head>
+<body>
+<div class="box">
+    <!-- 顶部提示文案 -->
+    <div class="tip">
+        特殊场地价格不一样<br>
+        例如钧濠，景和园，中晟汇港湾，杏林雅苑，等地，多问核实<br>
+        书香门第，龙华印象汇，香悦里-公司要抽200茶水费<br>
+        1000以上年卡减300<br>
+        超过1000，30以内零头可抹掉<br>
+        办理服务费统一报价500 能者报高多得
+    </div>
+
+    <!-- 单选选项 -->
+    <div class="radio-wrap">
+        <label><input type="radio" name="area" value="normal" checked> 通用</label>
+        <label><input type="radio" name="area" value="lfs"> 罗湖、福田、南山区域</label>
+    </div>
+
+    <!-- 输入框+按钮 -->
+    <div class="input-wrap">
+        <input type="number" id="priceInput" placeholder="请输入月卡套餐价格">
+        <button id="searchBtn">查询价格</button>
+    </div>
+
+    <!-- 结果展示 -->
+    <div class="result" id="resultBox"></div>
+</div>
+
+<script>
+    // 通用区间规则 [min,max,年卡,半年,季卡]
+    const normalRule = [
+        [1, 449, 250, 300, 400],
+        [450, 499, 300, 350, 450],
+        [500, 600, 350, 400, 500],
+        [610, 650, 400, 450, 550],
+        [660, 700, 450, 500, 600],
+        [710, 750, 500, 550, 650],
+        [760, 800, 550, 600, 700],
+        [810, 850, 600, 650, 750],
+        [860, 900, 650, 700, 800],
+        [910, 950, 700, 750, 850],
+        [960, 1000, 700, 800, 900]
+    ];
+    // 罗福南规则
+    const lfsRule = [
+        [600, 700, 450, 500, 600]
+    ];
+
+    const priceInput = document.getElementById('priceInput');
+    const searchBtn = document.getElementById('searchBtn');
+    const resultBox = document.getElementById('resultBox');
+
+    // 查询逻辑
+    function calcPrice(){
+        let price = Number(priceInput.value);
+        if(!price || price <= 0){
+            resultBox.innerHTML = '<div style="color:red">请输入正确的月卡价格</div>';
+            return;
+        }
+        // 获取选中区域
+        let area = document.querySelector('input[name="area"]:checked').value;
+        let ruleList = area === 'lfs' ? lfsRule : normalRule;
+        let find = null;
+
+        for(let item of ruleList){
+            let [min, max, year, half, quarter] = item;
+            if(price >= min && price <= max){
+                find = item;
+                break;
+            }
+        }
+
+        if(!find){
+            resultBox.innerHTML = `<div style="color:red">未匹配到对应价格区间，请核对输入价格</div>`;
+            return;
+        }
+
+        let [min, max, year, half, quarter] = find;
+        let areaText = area === 'lfs' ? '罗湖/福田/南山区域' : '通用区域';
+        let tipText = price > 1000 ? `<br>✅ 金额超1000：年卡可减300，30以内零头可抹除` : '';
+
+        resultBox.innerHTML = `
+                <h4>匹配结果（${areaText}）</h4>
+                <div>月卡区间：${min} - ${max} 元</div>
+                <div>年卡价格：${year} 元</div>
+                <div>半年卡价格：${half} 元</div>
+                <div>季卡价格：${quarter} 元</div>
+                ${tipText}
+            `;
+    }
+
+    // 按钮点击
+    searchBtn.addEventListener('click', calcPrice);
+    // 回车触发
+    priceInput.addEventListener('keydown',function(e){
+        if(e.key === 'Enter') calcPrice();
+    })
+</script>
+</body>
+</html>

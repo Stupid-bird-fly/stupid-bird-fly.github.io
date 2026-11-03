@@ -6,7 +6,7 @@ const API_URLS = [
   'https://raw.githubusercontent.com/Stupid-bird-fly/stupid-bird-fly.github.io/main/api/v1/quotes.json',
 ];
 const CACHE_FILE = 'mao-quote-card-cache-v1.json';
-const SELECTED_FILE = 'mao-quote-card-selected-v1.json';
+const SELECTED_PREFIX = 'mao-quote-card-selected-v2';
 const CACHE_AGE_MS = 24 * 60 * 60 * 1000;
 
 function isValidQuote(quote) {
@@ -85,38 +85,41 @@ function dailyQuote(quotes, category, family, now) {
   return candidates[dayNumber % candidates.length];
 }
 
+function selectionFileName(category, family) {
+  let first = 2166136261;
+  let second = 5381;
+  for (let index = 0; index < category.length; index += 1) {
+    const code = category.charCodeAt(index);
+    first = Math.imul(first ^ code, 16777619);
+    second = Math.imul(second ^ code, 2246822519);
+  }
+  const firstHex = ('00000000' + (first >>> 0).toString(16)).slice(-8);
+  const secondHex = ('00000000' + (second >>> 0).toString(16)).slice(-8);
+  return `${SELECTED_PREFIX}-${family}-${firstHex}${secondHex}.json`;
+}
+
 function dailySelection(now, category, family) {
   const dateKey = `${now.getFullYear()}-${('0' + (now.getMonth() + 1)).slice(-2)}-${('0' + now.getDate()).slice(-2)}`;
-  const key = JSON.stringify([dateKey, category, family]);
   let manager;
   let path;
-  let choices = {};
+  let quote = null;
   try {
     manager = FileManager.local();
-    path = manager.joinPath(manager.libraryDirectory(), SELECTED_FILE);
+    path = manager.joinPath(manager.libraryDirectory(), selectionFileName(category, family));
     if (manager.fileExists(path)) {
       const saved = JSON.parse(manager.readString(path));
-      if (saved.version === 1 && saved.choices && typeof saved.choices === 'object' && !Array.isArray(saved.choices)) {
-        choices = saved.choices;
-      }
+      if (saved.version === 2 && saved.date === dateKey && isValidQuote(saved.quote)) quote = saved.quote;
     }
   } catch (_) {
-    choices = {};
+    quote = null;
   }
 
-  const record = choices[key];
   return {
-    quote: record && record.date === dateKey && isValidQuote(record.quote) ? record.quote : null,
-    save(quote) {
+    quote,
+    save(selected) {
       if (!manager || !path) return;
-      const today = {};
-      for (const entryKey of Object.keys(choices)) {
-        const entry = choices[entryKey];
-        if (entry && entry.date === dateKey && isValidQuote(entry.quote)) today[entryKey] = entry;
-      }
-      today[key] = { date: dateKey, quote };
       try {
-        manager.writeString(path, JSON.stringify({ version: 1, choices: today }));
+        manager.writeString(path, JSON.stringify({ version: 2, date: dateKey, quote: selected }));
       } catch (_) {
         // 选择记录无法写入时，仍显示本次选出的语录。
       }
@@ -208,15 +211,19 @@ const category = typeof args.widgetParameter === 'string' ? args.widgetParameter
 let widget;
 try {
   const selection = dailySelection(now, category, family);
-  const data = await loadQuotes(now);
-  if (!data && !selection.quote) {
-    widget = errorWidget(now, family, '暂时无法获取语录', '请联网打开脚本再试');
+  if (selection.quote) {
+    widget = renderQuote(selection.quote, family, now);
   } else {
-    const quote = selection.quote || dailyQuote(data.quotes, category, family, now);
-    if (quote && !selection.quote) selection.save(quote);
-    widget = quote
-      ? renderQuote(quote, family, now)
-      : errorWidget(now, family, '没有找到这个分类', '请检查组件的 Parameter');
+    const data = await loadQuotes(now);
+    if (!data) {
+      widget = errorWidget(now, family, '暂时无法获取语录', '请联网打开脚本再试');
+    } else {
+      const quote = dailyQuote(data.quotes, category, family, now);
+      if (quote) selection.save(quote);
+      widget = quote
+        ? renderQuote(quote, family, now)
+        : errorWidget(now, family, '没有找到这个分类', '请检查组件的 Parameter');
+    }
   }
 } catch (_) {
   widget = errorWidget(now, family, '暂时无法获取语录', '请稍后再试');

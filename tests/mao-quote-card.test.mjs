@@ -175,7 +175,8 @@ test('主地址失败时尝试备用地址', async () => {
   });
   assert.ok(result.texts.includes('备用地址内容'));
   assert.equal(result.requests.length, 2);
-  assert.match(result.requests[1], /raw\.githubusercontent\.com/);
+  assert.equal(result.requests[0], 'https://yuanit.vip/api/v1/quotes.json');
+  assert.equal(result.requests[1], 'https://raw.githubusercontent.com/Stupid-bird-fly/stupid-bird-fly.github.io/main/api/v1/quotes.json');
 });
 
 test('两个地址均设置短超时，超时后显示旧缓存', async () => {
@@ -196,7 +197,7 @@ test('两个地址均设置短超时，超时后显示旧缓存', async () => {
   assert.ok(result.timeouts.every((seconds) => seconds <= 5), `timeouts: ${result.timeouts}`);
 });
 
-test('同一当地日期即使 API 更新并删除旧 ID，卡片仍显示已选语录', async () => {
+test('当日已有选择时跳过过期缓存的网络请求并保持原语录', async () => {
   const files = new Map();
   const first = await runWidget({
     data: payload([quote(1, '当天原语录', '思维方法')]),
@@ -211,9 +212,27 @@ test('同一当地日期即使 API 更新并删除旧 ID，卡片仍显示已选
     files,
     date: '2026-11-03T09:00:00Z',
   });
-  assert.ok(refreshed.requests.length > 0);
+  assert.equal(refreshed.requests.length, 0);
   assert.ok(refreshed.texts.includes('当天原语录'));
   assert.ok(!refreshed.texts.includes('接口更新后的语录'));
+});
+
+test('次日会重新请求数据并轮换语录', async () => {
+  const files = new Map();
+  await runWidget({
+    data: payload([quote(1, '昨天的语录', '思维方法')]),
+    files,
+    date: '2026-11-03T08:00:00Z',
+  });
+  expireApiCache(files);
+  const nextDay = await runWidget({
+    data: payload([quote(2, '今天的新语录', '思维方法')]),
+    files,
+    date: '2026-11-04T08:00:00Z',
+  });
+  assert.ok(nextDay.requests.length > 0);
+  assert.ok(nextDay.texts.includes('今天的新语录'));
+  assert.ok(!nextDay.texts.includes('昨天的语录'));
 });
 
 test('每日选择按分类和组件尺寸分别保存，互不覆盖', async () => {
@@ -245,8 +264,73 @@ test('每日选择按分类和组件尺寸分别保存，互不覆盖', async ()
   assert.ok(originalSlot.texts.includes('小号甲类旧语录'));
 });
 
+test('不同组件首次并发加载后仍分别保留当天选择', async () => {
+  const files = new Map();
+  const initial = payload([
+    quote(1, '甲类初次语录', '思维方法'),
+    quote(2, '乙类初次语录', '学习态度'),
+  ]);
+  let started = 0;
+  let releaseRequests;
+  let bothStarted;
+  const requestsStarted = new Promise((resolve) => { bothStarted = resolve; });
+  const held = new Promise((resolve) => { releaseRequests = resolve; });
+  const requestHandler = async () => {
+    started += 1;
+    if (started === 2) bothStarted();
+    await held;
+    return initial;
+  };
+  const date = '2026-11-03T08:00:00Z';
+  const firstPromise = runWidget({ files, date, family: 'small', parameter: '思维方法', requestHandler });
+  const secondPromise = runWidget({ files, date, family: 'medium', parameter: '学习态度', requestHandler });
+  await requestsStarted;
+  releaseRequests();
+  const [first, second] = await Promise.all([firstPromise, secondPromise]);
+  assert.ok(first.texts.includes('甲类初次语录'));
+  assert.ok(second.texts.includes('乙类初次语录'));
+
+  expireApiCache(files);
+  const updated = payload([
+    quote(3, '甲类更新语录', '思维方法'),
+    quote(4, '乙类更新语录', '学习态度'),
+  ]);
+  const firstAgain = await runWidget({ files, date, family: 'small', parameter: '思维方法', data: updated });
+  const secondAgain = await runWidget({ files, date, family: 'medium', parameter: '学习态度', data: updated });
+  assert.ok(firstAgain.texts.includes('甲类初次语录'));
+  assert.ok(secondAgain.texts.includes('乙类初次语录'));
+  assert.equal(firstAgain.requests.length, 0);
+  assert.equal(secondAgain.requests.length, 0);
+});
+
+test('超长或含路径字符的分类参数使用安全且有界的选择文件名', async () => {
+  const files = new Map();
+  const oddCategory = '../' + '很长'.repeat(500);
+  const data = payload([
+    quote(1, '异常分类内容', oddCategory),
+    quote(2, '普通分类内容', '思维方法'),
+  ]);
+  const odd = await runWidget({ files, data, parameter: oddCategory });
+  const normal = await runWidget({ files, data, parameter: '思维方法' });
+  assert.ok(odd.texts.includes('异常分类内容'));
+  assert.ok(normal.texts.includes('普通分类内容'));
+  const selectionPaths = [...files.keys()].filter((path) => path.includes('mao-quote-card-selected'));
+  assert.equal(selectionPaths.length, 2);
+  assert.ok(selectionPaths.every((path) => path.startsWith('/library/') &&
+    !path.includes('..') && path.length < 120));
+});
+
 test('当日选择文件损坏时仍能显示语录并恢复稳定选择', async () => {
-  const files = new Map([['/library/mao-quote-card-selected-v1.json', '{损坏']]);
+  const files = new Map();
+  await runWidget({
+    data: payload([quote(9, '前一天的语录', '实践精神')]),
+    files,
+    date: '2026-11-02T08:00:00Z',
+  });
+  const selectionPath = [...files.keys()].find((path) => path.includes('mao-quote-card-selected'));
+  assert.ok(selectionPath);
+  files.set(selectionPath, '{损坏');
+  expireApiCache(files);
   const date = '2026-11-03T08:00:00Z';
   const first = await runWidget({ data: payload([quote(1, '损坏后首次语录', '实践精神')]), files, date });
   assert.ok(first.texts.includes('损坏后首次语录'));

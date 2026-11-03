@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "category": "革命精神",
+  "total": 6,
+  "quotes": [
+    {
+      "id": 75,
+      "content": "革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "革命精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 77,
+      "content": "哪里有压迫，哪里就有反抗。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "革命精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 80,
+      "content": "与天奋斗，其乐无穷！与地奋斗，其乐无穷！与人奋斗，其乐无穷！",
+      "source": "《湘江评论》创刊宣言",
+      "date": "一九一九年七月十四日",
+      "category": "革命精神",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 94,
+      "content": "红军不怕远征难，万水千山只等闲。",
+      "source": "七律·长征",
+      "date": "一九三五年十月",
+      "category": "革命精神",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 114,
+      "content": "只有破坏旧的腐朽的东西，才能建设新的健全的东西。",
+      "source": "新民主主义的宪政",
+      "date": "一九四○年二月二十日",
+      "category": "革命精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#049-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%AA%E6%94%BF.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 143,
+      "content": "革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "革命精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

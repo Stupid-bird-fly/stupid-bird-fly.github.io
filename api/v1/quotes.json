@@ -1,0 +1,1639 @@
+{
+  "version": 1,
+  "total": 181,
+  "source": {
+    "project": "redwisdom",
+    "snapshotDate": "2026-01-29"
+  },
+  "quotes": [
+    {
+      "id": 1,
+      "content": "为人民利益而死，就比泰山还重。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "人生价值",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 2,
+      "content": "我们都是来自五湖四海，为了一个共同的革命目标，走到一起来了。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "团结协作",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 3,
+      "content": "我们的同志在困难的时候，要看到成绩，要看到光明，要提高我们的勇气。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 4,
+      "content": "要奋斗就会有牺牲，死人的事是经常发生的。但是我们想到人民的利益，想到大多数人民的痛苦，我们为人民而死，就是死得其所。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "人生价值",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 5,
+      "content": "一切革命队伍的人都要互相关心，互相爱护，互相帮助。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "团结协作",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 6,
+      "content": "因为我们是为人民服务的，所以，我们如果有缺点，就不怕别人批评指出。不管是什么人，谁向我们指出都行。只要你说得对，我们就改正。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "自我批评",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 7,
+      "content": "一个人能力有大小，但只要有这点精神，就是一个高尚的人，一个纯粹的人，一个有道德的人，一个脱离了低级趣味的人，一个有益于人民的人。",
+      "source": "纪念白求恩",
+      "date": "一九三九年十二月二十一日",
+      "category": "人格修养",
+      "articleUrl": "https://redwisdom.xyz/reading.html#042-%E7%BA%AA%E5%BF%B5%E7%99%BD%E6%B1%82%E6%81%A9.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 8,
+      "content": "毫不利己专门利人的精神，表现在他对工作的极端的负责任，对同志对人民的极端的热忱。",
+      "source": "纪念白求恩",
+      "date": "一九三九年十二月二十一日",
+      "category": "工作态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#042-%E7%BA%AA%E5%BF%B5%E7%99%BD%E6%B1%82%E6%81%A9.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 9,
+      "content": "对技术精益求精。",
+      "source": "纪念白求恩",
+      "date": "一九三九年十二月二十一日",
+      "category": "工作态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#042-%E7%BA%AA%E5%BF%B5%E7%99%BD%E6%B1%82%E6%81%A9.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 10,
+      "content": "下定决心，不怕牺牲，排除万难，去争取胜利。",
+      "source": "愚公移山",
+      "date": "一九四五年六月十一日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#083-%E6%84%9A%E5%85%AC%E7%A7%BB%E5%B1%B1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 11,
+      "content": "我们一定要坚持下去，一定要不断地工作。",
+      "source": "愚公移山",
+      "date": "一九四五年六月十一日",
+      "category": "坚持奋斗",
+      "articleUrl": "https://redwisdom.xyz/reading.html#083-%E6%84%9A%E5%85%AC%E7%A7%BB%E5%B1%B1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 12,
+      "content": "星星之火，可以燎原。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 13,
+      "content": "它是站在海岸遥望海中已经看得见桅杆尖头了的一只航船，它是立于高山之巅远看东方已见光芒四射喷薄欲出的一轮朝日，它是躁动于母腹中的快要成熟了的一个婴儿。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 14,
+      "content": "我们看事情必须要看它的实质，而把它的现象只看作入门的向导，一进了门就要抓住它的实质，这才是可靠的科学的分析方法。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 15,
+      "content": "无论何时何地，坚持正确的原则，同一切不正确的思想和行为作不疲倦的斗争。",
+      "source": "反对自由主义",
+      "date": "一九三七年九月七日",
+      "category": "坚持原则",
+      "articleUrl": "https://redwisdom.xyz/reading.html#020-%E5%8F%8D%E5%AF%B9%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 16,
+      "content": "事不关己，高高挂起；明知不对，少说为佳；明哲保身，但求无过。这是第三种自由主义。",
+      "source": "反对自由主义",
+      "date": "一九三七年九月七日",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#020-%E5%8F%8D%E5%AF%B9%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 17,
+      "content": "办事不认真，无一定计划，无一定方向，敷衍了事，得过且过，做一天和尚撞一天钟。这是第九种自由主义。",
+      "source": "反对自由主义",
+      "date": "一九三七年九月七日",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#020-%E5%8F%8D%E5%AF%B9%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 18,
+      "content": "斗争，失败，再斗争，再失败，再斗争，直至胜利——这就是人民的逻辑，他们也是决不会违背这个逻辑的。",
+      "source": "丢掉幻想，准备斗争",
+      "date": "一九四九年八月十四日",
+      "category": "坚持奋斗",
+      "articleUrl": "https://redwisdom.xyz/reading.html#154-%E4%B8%A2%E6%8E%89%E5%B9%BB%E6%83%B3%EF%BC%8C%E5%87%86%E5%A4%87%E6%96%97%E4%BA%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 19,
+      "content": "实践、认识、再实践、再认识，这种形式，循环往复以至无穷，而实践和认识之每一循环的内容，都比较地进到了高一级的程度。",
+      "source": "实践论",
+      "date": "一九三七年七月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#016-%E5%AE%9E%E8%B7%B5%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 20,
+      "content": "你要知道梨子的滋味，你就得变革梨子，亲口吃一吃。",
+      "source": "实践论",
+      "date": "一九三七年七月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#016-%E5%AE%9E%E8%B7%B5%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 21,
+      "content": "知识的问题是一个科学问题，来不得半点的虚伪和骄傲，决定地需要的倒是其反面——诚实和谦逊的态度。",
+      "source": "实践论",
+      "date": "一九三七年七月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#016-%E5%AE%9E%E8%B7%B5%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 22,
+      "content": "感觉到了的东西，我们不能立刻理解它，只有理解了的东西才更深刻地感觉它。",
+      "source": "实践论",
+      "date": "一九三七年七月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#016-%E5%AE%9E%E8%B7%B5%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 23,
+      "content": "不入虎穴，焉得虎子。这句话对于人们的实践是真理，对于认识论也是真理。",
+      "source": "实践论",
+      "date": "一九三七年七月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#016-%E5%AE%9E%E8%B7%B5%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 24,
+      "content": "没有调查，没有发言权。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 25,
+      "content": "事物发展的根本原因，不是在事物的外部而是在事物的内部，在于事物内部的矛盾性。",
+      "source": "矛盾论",
+      "date": "一九三七年八月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#017-%E7%9F%9B%E7%9B%BE%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 26,
+      "content": "人民，只有人民，才是创造世界历史的动力。",
+      "source": "论联合政府",
+      "date": "一九四五年四月二十四日",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#082-%E8%AE%BA%E8%81%94%E5%90%88%E6%94%BF%E5%BA%9C.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 27,
+      "content": "群众是真正的英雄，而我们自己则往往是幼稚可笑的。",
+      "source": "《农村调查》的序言和跋",
+      "date": "一九四一年三月",
+      "category": "群众路线",
+      "articleUrl": "https://redwisdom.xyz/reading.html#058-%E3%80%8A%E5%86%9C%E6%9D%91%E8%B0%83%E6%9F%A5%E3%80%8B%E7%9A%84%E5%BA%8F%E8%A8%80%E5%92%8C%E8%B7%8B.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 28,
+      "content": "虚心使人进步，骄傲使人落后，我们应当永远记住这个真理。",
+      "source": "中国共产党第八次全国代表大会开幕词",
+      "date": "一九五六年九月十五日",
+      "category": "学习态度",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 29,
+      "content": "世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好像早晨八九点钟的太阳。希望寄托在你们身上。",
+      "source": "在莫斯科会见留学生时的讲话",
+      "date": "一九五七年十一月十七日",
+      "category": "青年寄语",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 30,
+      "content": "自己动手，丰衣足食。",
+      "source": "组织起来",
+      "date": "一九四三年十一月二十九日",
+      "category": "自力更生",
+      "articleUrl": "https://redwisdom.xyz/reading.html#074-%E7%BB%84%E7%BB%87%E8%B5%B7%E6%9D%A5.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 31,
+      "content": "一切反动派都是纸老虎。",
+      "source": "和美国记者安娜·路易斯·斯特朗的谈话",
+      "date": "一九四六年八月",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#101-%E5%92%8C%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E5%AE%89%E5%A8%9C%C2%B7%E8%B7%AF%E6%98%93%E6%96%AF%C2%B7%E6%96%AF%E7%89%B9%E6%9C%97%E7%9A%84%E8%B0%88%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 32,
+      "content": "在战略上要藐视敌人，在战术上要重视敌人。",
+      "source": "和美国记者安娜·路易斯·斯特朗的谈话",
+      "date": "一九四六年八月",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#101-%E5%92%8C%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E5%AE%89%E5%A8%9C%C2%B7%E8%B7%AF%E6%98%93%E6%96%AF%C2%B7%E6%96%AF%E7%89%B9%E6%9C%97%E7%9A%84%E8%B0%88%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 33,
+      "content": "凡是敌人反对的，我们就要拥护；凡是敌人拥护的，我们就要反对。",
+      "source": "和中央社、扫荡报、新民报三记者的谈话",
+      "date": "一九三九年九月十六日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#035-%E5%92%8C%E4%B8%AD%E5%A4%AE%E7%A4%BE%E3%80%81%E6%89%AB%E8%8D%A1%E6%8A%A5%E3%80%81%E6%96%B0%E6%B0%91%E6%8A%A5%E4%B8%89%E8%AE%B0%E8%80%85%E7%9A%84%E8%B0%88%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 34,
+      "content": "好好学习，天天向上。",
+      "source": "题词",
+      "date": "一九四九年",
+      "category": "学习态度",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 35,
+      "content": "贪污和浪费是极大的犯罪。",
+      "source": "我们的经济政策",
+      "date": "一九三四年一月",
+      "category": "廉政勤俭",
+      "articleUrl": "https://redwisdom.xyz/reading.html#009-%E6%88%91%E4%BB%AC%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 36,
+      "content": "从群众中来，到群众中去。",
+      "source": "关于领导方法的若干问题",
+      "date": "一九四三年六月一日",
+      "category": "群众路线",
+      "articleUrl": "https://redwisdom.xyz/reading.html#070-%E5%85%B3%E4%BA%8E%E9%A2%86%E5%AF%BC%E6%96%B9%E6%B3%95%E7%9A%84%E8%8B%A5%E5%B9%B2%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 37,
+      "content": "团结一切可以团结的力量。",
+      "source": "论十大关系",
+      "date": "一九五六年四月二十五日",
+      "category": "团结协作",
+      "articleUrl": "https://redwisdom.xyz/reading.html#209-%E8%AE%BA%E5%8D%81%E5%A4%A7%E5%85%B3%E7%B3%BB.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 38,
+      "content": "敌进我退，敌驻我扰，敌疲我打，敌退我追。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 39,
+      "content": "凡事预则立，不预则废。没有事先的计划和准备，就不能获得战争的胜利。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 40,
+      "content": "不打无准备之仗，不打无把握之仗，每战都应力求有准备，力求在敌我条件对比之下有胜利的把握。",
+      "source": "目前形势和我们的任务",
+      "date": "一九四七年十二月二十五日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#112-%E7%9B%AE%E5%89%8D%E5%BD%A2%E5%8A%BF%E5%92%8C%E6%88%91%E4%BB%AC%E7%9A%84%E4%BB%BB%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 41,
+      "content": "世上无难事，只要肯登攀。",
+      "source": "水调歌头·重上井冈山",
+      "date": "一九六五年五月",
+      "category": "坚持奋斗",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 42,
+      "content": "自信人生二百年，会当水击三千里。",
+      "source": "水调歌头·游泳",
+      "date": "一九五六年六月",
+      "category": "信念勇气",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 43,
+      "content": "雄关漫道真如铁，而今迈步从头越。",
+      "source": "忆秦娥·娄山关",
+      "date": "一九三五年二月",
+      "category": "坚持奋斗",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 44,
+      "content": "以斗争求团结则团结存，以退让求团结则团结亡。",
+      "source": "目前抗日统一战线中的策略问题",
+      "date": "一九四〇年三月十一日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#051-%E7%9B%AE%E5%89%8D%E6%8A%97%E6%97%A5%E7%BB%9F%E4%B8%80%E6%88%98%E7%BA%BF%E4%B8%AD%E7%9A%84%E7%AD%96%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 45,
+      "content": "调查就像十月怀胎，解决问题就像一朝分娩。",
+      "source": "反对本本主义",
+      "date": "一九三〇年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 46,
+      "content": "对于人，伤其十指不如断其一指；对于敌，击溃其十个师不如歼灭其一个师。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 47,
+      "content": "打得赢就打，打不赢就走。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 48,
+      "content": "如果有了正确的理论，只是把它空谈一阵，束之高阁，并不实行，那么这种理论再好也是没有意义的。",
+      "source": "实践论",
+      "date": "一九三七年七月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#016-%E5%AE%9E%E8%B7%B5%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 49,
+      "content": "不论做什么事，不懂得那件事的情形，它的性质，它和它以外的事情的关联，就不知道那件事的规律，就不知道如何去做，就不能做好那件事。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 50,
+      "content": "在危险环境中表示绝望的人，在黑暗中看不见光明的人，只是懦夫与机会主义者。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 51,
+      "content": "看它的过去，就可以知道它的现在；看它的过去和现在，就可以知道它的将来。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 52,
+      "content": "一切战争指导规律，依照历史的发展而发展，依照战争的发展而发展，一成不变的东西是没有的。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 53,
+      "content": "睡眠和休息丧失了时间，却取得了明天工作的精力。如果有什么蠢人，不知此理，拒绝睡觉，他明天就没有精神了，这是蚀本生意。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 54,
+      "content": "为了进攻而防御，为了前进而后退，为了向正面而向侧面，为了走直路而走弯路，是许多事物在发展过程中不可避免的现象。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 55,
+      "content": "要人家服，只能说服，不能压服。压服的结果，总是压而不服。",
+      "source": "在中国共产党全国宣传工作会议上的讲话",
+      "date": "一九五七年三月十二日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#217-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%A8%E5%9B%BD%E5%AE%A3%E4%BC%A0%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 56,
+      "content": "我们走了很多弯路，但是错误常常是正确的先导。",
+      "source": "辩证法唯物论（讲授提纲）",
+      "date": "一九三七年",
+      "category": "思维方法",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 57,
+      "content": "世界上的事情都是这样的，钟不敲是不响的，桌子不搬是不走的。",
+      "source": "在中国共产党全国代表会议上的讲话",
+      "date": "一九五五年三月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#199-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E4%BC%9A%E8%AE%AE%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 58,
+      "content": "教条主义是不落地的，它是挂在空中的。我们讨论问题应当从实际出发，不是从定义出发。",
+      "source": "关于农业合作化问题",
+      "date": "一九五五年七月三十一日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#202-%E5%85%B3%E4%BA%8E%E5%86%9C%E4%B8%9A%E5%90%88%E4%BD%9C%E5%8C%96%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 59,
+      "content": "在世界上要办成几件事，没有老实态度是根本不行的。一切狡猾的人，不照科学态度办事的人，自以为得计，自以为很聪明，其实都是最蠢的，都是没有好结果的。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "人格修养",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 60,
+      "content": "情况是逐渐了解的，需要继续不断的努力。认识世界，不是一件容易的事。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 61,
+      "content": "对任何事情都要问一个为什么，都要经过自己头脑的周密思考，想一想它是否合乎实际，是否真有道理。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 62,
+      "content": "从最坏的可能性着想，总不吃亏。不论任何工作，我们都要从最坏的可能性来想，来部署。",
+      "source": "论联合政府",
+      "date": "一九四五年四月二十四日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#082-%E8%AE%BA%E8%81%94%E5%90%88%E6%94%BF%E5%BA%9C.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 63,
+      "content": "碰到钉子时，就向钉子学习，把别人的经验变成自己的，你的本事就大了。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 64,
+      "content": "不同质的矛盾，只有用不同质的方法才能解决。",
+      "source": "矛盾论",
+      "date": "一九三七年八月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#017-%E7%9F%9B%E7%9B%BE%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 65,
+      "content": "一个矛盾克服了，又一个矛盾产生了。在任何时间、任何地方、任何人身上，总是有矛盾存在的，没有矛盾就没有世界。",
+      "source": "矛盾论",
+      "date": "一九三七年八月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#017-%E7%9F%9B%E7%9B%BE%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 66,
+      "content": "当着天空中出现乌云的时候，我们就指出：这不过是暂时的现象，黑暗即将过去，曙光即在前头。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三〇年一月五日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 67,
+      "content": "事物是往返曲折的，不是径情直遂的。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 68,
+      "content": "我们要振作精神，下苦功学习。下苦功，三个字：一个叫下，一个叫苦，一个叫功。一定要振作精神，下苦功。",
+      "source": "在中国共产党全国代表会议上的讲话",
+      "date": "一九五五年三月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#199-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E4%BC%9A%E8%AE%AE%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 69,
+      "content": "让他们去说我们这不行那不行吧。中国人民的不屈不挠的努力，必将稳步地达到自己的目的。",
+      "source": "开幕词",
+      "date": "一九四九年九月二十一日",
+      "category": "信念勇气",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 70,
+      "content": "人家恭维你抬举你，这有一样好处，就是鼓励你上进；但有一样坏处，就是易长自满之气，得意忘形，有不知脚踏实地、实事求是的危险。",
+      "source": "致湖南自修大学学生的信",
+      "date": "一九二三年",
+      "category": "人格修养",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 71,
+      "content": "放下包袱，开动机器。",
+      "source": "学习和时局",
+      "date": "一九四四年四月十二日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#075-%E5%AD%A6%E4%B9%A0%E5%92%8C%E6%97%B6%E5%B1%80.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 72,
+      "content": "分兵以发动群众，集中以应付敌人。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 73,
+      "content": "一切行动的指导原则，都根据于一个基本原则，就是尽可能地保存自己的力量，消灭敌人的力量。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 74,
+      "content": "谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。",
+      "source": "中国社会各阶级的分析",
+      "date": "一九二五年十二月一日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#000-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%90.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 75,
+      "content": "革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "革命精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 76,
+      "content": "枪杆子里面出政权。",
+      "source": "《共产党》发刊词",
+      "date": "一九二七年八月七日",
+      "category": "革命真理",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 77,
+      "content": "哪里有压迫，哪里就有反抗。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "革命精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 78,
+      "content": "什么叫工作？工作就是斗争。",
+      "source": "抗日战争胜利后的时局和我们的方针",
+      "date": "一九四五年八月十三日",
+      "category": "工作态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#089-%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89%E8%83%9C%E5%88%A9%E5%90%8E%E7%9A%84%E6%97%B6%E5%B1%80%E5%92%8C%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B9%E9%92%88.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 79,
+      "content": "凡事忍耐，多想自己缺点，增益其所不能。",
+      "source": "给黎锦熙的信",
+      "date": "一九一七年",
+      "category": "人格修养",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 80,
+      "content": "与天奋斗，其乐无穷！与地奋斗，其乐无穷！与人奋斗，其乐无穷！",
+      "source": "《湘江评论》创刊宣言",
+      "date": "一九一九年七月十四日",
+      "category": "革命精神",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 81,
+      "content": "艰苦的工作就像担子，摆在我们的面前，看我们敢不敢承担。",
+      "source": "论联合政府",
+      "date": "一九四五年四月二十四日",
+      "category": "担当精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#082-%E8%AE%BA%E8%81%94%E5%90%88%E6%94%BF%E5%BA%9C.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 82,
+      "content": "我们的阵地，只能一个一个地夺取，我们的力量，只能一点一点地聚集。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "坚持奋斗",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 83,
+      "content": "一万年太久，只争朝夕。",
+      "source": "满江红·和郭沫若同志",
+      "date": "一九六三年一月九日",
+      "category": "坚持奋斗",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 84,
+      "content": "读书是学习，使用也是学习，而且是更重要的学习。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 85,
+      "content": "饭可以一日不吃，觉可以一日不睡，书不可以一日不读。",
+      "source": "毛泽东",
+      "date": "",
+      "category": "学习态度",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 86,
+      "content": "数风流人物，还看今朝。",
+      "source": "沁园春·雪",
+      "date": "一九三六年二月",
+      "category": "信念勇气",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 87,
+      "content": "中华民族有同自己的敌人血战到底的气概，有在自力更生的基础上光复旧物的决心，有自立于世界民族之林的能力。",
+      "source": "论反对日本帝国主义的策略",
+      "date": "一九三五年十二月二十七日",
+      "category": "民族精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#011-%E8%AE%BA%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89%E7%9A%84%E7%AD%96%E7%95%A5.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 88,
+      "content": "做一件事，无论大小，倘无恒心，是很不好的。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "坚持奋斗",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 89,
+      "content": "不是东风压倒西风，就是西风压倒东风。",
+      "source": "在莫斯科共产党和工人党代表会议上的讲话",
+      "date": "一九五七年十一月十八日",
+      "category": "斗争智慧",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 90,
+      "content": "凡是正确的领导，必须是从群众中来，到群众中去。",
+      "source": "关于领导方法的若干问题",
+      "date": "一九四三年六月一日",
+      "category": "群众路线",
+      "articleUrl": "https://redwisdom.xyz/reading.html#070-%E5%85%B3%E4%BA%8E%E9%A2%86%E5%AF%BC%E6%96%B9%E6%B3%95%E7%9A%84%E8%8B%A5%E5%B9%B2%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 91,
+      "content": "向雷锋同志学习。",
+      "source": "题词",
+      "date": "一九六三年三月五日",
+      "category": "人格修养",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 92,
+      "content": "敌军围困万千重，我自岿然不动。",
+      "source": "西江月·井冈山",
+      "date": "一九二八年秋",
+      "category": "信念勇气",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 93,
+      "content": "踏遍青山人未老，风景这边独好。",
+      "source": "清平乐·会昌",
+      "date": "一九三四年夏",
+      "category": "人生态度",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 94,
+      "content": "红军不怕远征难，万水千山只等闲。",
+      "source": "七律·长征",
+      "date": "一九三五年十月",
+      "category": "革命精神",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 95,
+      "content": "俱往矣，数风流人物，还看今朝。",
+      "source": "沁园春·雪",
+      "date": "一九三六年二月",
+      "category": "信念勇气",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 96,
+      "content": "天若有情天亦老，人间正道是沧桑。",
+      "source": "七律·人民解放军占领南京",
+      "date": "一九四九年四月",
+      "category": "历史规律",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 97,
+      "content": "牢骚太盛防肠断，风物长宜放眼量。",
+      "source": "七律·和柳亚子先生",
+      "date": "一九四九年四月二十九日",
+      "category": "人生态度",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 98,
+      "content": "政治路线确定之后，干部就是决定的因素。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 99,
+      "content": "必须善于识别干部。不但要看干部的一时一事，而且要看干部的全部历史和全部工作。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 100,
+      "content": "任人唯贤的路线是正派的路线，任人唯亲的路线是不正派的路线。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 101,
+      "content": "学习的敌人是自己的满足，要认真学习一点东西，必须从不自满开始。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 102,
+      "content": "对自己，'学而不厌'，对人家，'诲人不倦'，我们应取这种态度。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 103,
+      "content": "大公无私，积极努力，克己奉公，埋头苦干的精神，才是可尊敬的。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "人格修养",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 104,
+      "content": "科学的态度是'实事求是'，'自以为是'和'好为人师'那样狂妄的态度是决不能解决问题的。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 105,
+      "content": "真理只有一个，而究竟谁发现了真理，不依靠主观的夸张，而依靠客观的实践。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 106,
+      "content": "只有千百万人民的革命实践，才是检验真理的尺度。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 107,
+      "content": "不破不立，不塞不流，不止不行。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 108,
+      "content": "鲁迅的骨头是最硬的，他没有丝毫的奴颜和媚骨，这是殖民地半殖民地人民最可宝贵的性格。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "人格修养",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 109,
+      "content": "必须将马克思主义的普遍真理和中国革命的具体实践完全地恰当地统一起来。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 110,
+      "content": "必须尊重自己的历史，决不能割断历史。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "历史规律",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 111,
+      "content": "对于人民群众和青年学生，主要地不是要引导他们向后看，而是要引导他们向前看。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "青年寄语",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 112,
+      "content": "新中国站在每个人民的面前，我们应该迎接它。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 113,
+      "content": "中国缺少的东西固然很多，但是主要的就是少了两件东西：一件是独立，一件是民主。",
+      "source": "新民主主义的宪政",
+      "date": "一九四○年二月二十日",
+      "category": "民主思想",
+      "articleUrl": "https://redwisdom.xyz/reading.html#049-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%AA%E6%94%BF.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 114,
+      "content": "只有破坏旧的腐朽的东西，才能建设新的健全的东西。",
+      "source": "新民主主义的宪政",
+      "date": "一九四○年二月二十日",
+      "category": "革命精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#049-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%AA%E6%94%BF.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 115,
+      "content": "没有民主，抗日是要失败的。有了民主，则抗他十年八年，我们也一定会胜利。",
+      "source": "新民主主义的宪政",
+      "date": "一九四○年二月二十日",
+      "category": "民主思想",
+      "articleUrl": "https://redwisdom.xyz/reading.html#049-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%AA%E6%94%BF.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 116,
+      "content": "历史的巨轮是拖不回来的。",
+      "source": "新民主主义的宪政",
+      "date": "一九四○年二月二十日",
+      "category": "历史规律",
+      "articleUrl": "https://redwisdom.xyz/reading.html#049-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%AA%E6%94%BF.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 117,
+      "content": "凡属倒退行为，结果都和主持者的原来的愿望相反。古今中外，没有例外。",
+      "source": "新民主主义的宪政",
+      "date": "一九四○年二月二十日",
+      "category": "历史规律",
+      "articleUrl": "https://redwisdom.xyz/reading.html#049-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%AA%E6%94%BF.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 118,
+      "content": "搬起石头打自己的脚，这是张伯伦政策的必然结果。",
+      "source": "新民主主义的宪政",
+      "date": "一九四○年二月二十日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#049-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%AA%E6%94%BF.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 119,
+      "content": "马克思列宁主义的普遍真理一经和中国革命的具体实践相结合，就使中国革命的面目为之一新。",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 120,
+      "content": "许多马克思列宁主义的学者也是言必称希腊，对于自己的祖宗，则对不住，忘记了。",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 121,
+      "content": "理论和实际统一，是马克思列宁主义的一条基本原则。",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 122,
+      "content": "墙上芦苇，头重脚轻根底浅；山间竹笋，嘴尖皮厚腹中空。",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 123,
+      "content": "马克思列宁主义是科学，科学是老老实实的学问，任何一点调皮都是不行的。我们还是老实一点吧！",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 124,
+      "content": "'实事'就是客观存在着的一切事物，'是'就是客观事物的内部联系，即规律性，'求'就是我们去研究。",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 125,
+      "content": "有的放矢的态度，就是实事求是的态度。",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 126,
+      "content": "我们走过了许多弯路。但是错误常常是正确的先导。",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 127,
+      "content": "武器是战争的重要的因素，但不是决定的因素，决定的因素是人不是物。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 128,
+      "content": "战争的伟力之最深厚的根源，存在于民众之中。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 129,
+      "content": "动员了全国的老百姓，就造成了陷敌于灭顶之灾的汪洋大海。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 130,
+      "content": "主观指导只能以正确为贵，是一切错误思想的敌人。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 131,
+      "content": "日本敢于欺负我们，主要的原因在于中国民众的无组织状态。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "团结协作",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 132,
+      "content": "亡国论者看敌人如神物，看自己如草芥。速胜论者看敌人如草芥，看自己如神物。这些都是错误的。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 133,
+      "content": "一切事情是要人做的，持久战和最后胜利没有人做就不会出现。做就必须先有人根据客观事实，引出思想、道理、意见，提出计划、方针、政策、战略、战术。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 134,
+      "content": "兵民是胜利之本。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 135,
+      "content": "抗日战争是持久战，最后胜利是中国的——这就是我们的结论。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 136,
+      "content": "既不是速胜论者，又不是亡国论者，我们是持久战论者。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 137,
+      "content": "中华民族解放万岁！",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "民族精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 138,
+      "content": "须知政权是由枪杆子中取得的。",
+      "source": "战争和战略问题",
+      "date": "一九三八年十一月六日",
+      "category": "革命真理",
+      "articleUrl": "https://redwisdom.xyz/reading.html#029-%E6%88%98%E4%BA%89%E5%92%8C%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 139,
+      "content": "我们是战争消灭论者，我们是不要战争的；但是只能经过战争去消灭战争，不要枪杆子必须拿起枪杆子。",
+      "source": "战争和战略问题",
+      "date": "一九三八年十一月六日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#029-%E6%88%98%E4%BA%89%E5%92%8C%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 140,
+      "content": "只要我们能团结，这个目的就一定能够达到。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "团结协作",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 141,
+      "content": "谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。",
+      "source": "中国社会各阶级的分析",
+      "date": "一九二五年十二月一日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#000-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%90.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 142,
+      "content": "我们的革命要有不领错路和一定成功的把握，不可不注意团结我们的真正的朋友，以攻击我们的真正的敌人。",
+      "source": "中国社会各阶级的分析",
+      "date": "一九二五年十二月一日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#000-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%90.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 143,
+      "content": "革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "革命精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 144,
+      "content": "矫枉必须过正，不过正不能矫枉。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 145,
+      "content": "很短的时间内，将有几万万农民从中国中部、南部和北部各省起来，其势如暴风骤雨，迅猛异常，无论什么大的力量都将压抑不住。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 146,
+      "content": "站在他们的前头领导他们呢？还是站在他们的后头指手画脚地批评他们呢？还是站在他们的对面反对他们呢？",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "群众路线",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 147,
+      "content": "调查就像十月怀胎，解决问题就像一朝分娩。调查就是解决问题。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 148,
+      "content": "你对于某个问题没有调查，就停止你对于某个问题的发言权。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 149,
+      "content": "一切结论产生于调查情况的末尾，而不是在它的先头。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 150,
+      "content": "迈开你的两脚，到你的工作范围的各部分各地方去走走，学个孔夫子的'每事问'。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 151,
+      "content": "马克思主义的'本本'是要学习的，但是必须同我国的实际情况相结合。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 152,
+      "content": "中国革命斗争的胜利要靠中国同志了解中国情况。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 153,
+      "content": "凡担负指导工作的人，一定都要亲身从事社会经济的实际调查，不能单靠书面报告，因为二者是两回事。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 154,
+      "content": "没有贫农，便没有革命。若否认他们，便是否认革命。若打击他们，便是打击革命。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 155,
+      "content": "乡村中一向苦战奋斗的主要力量是贫农。从秘密时期到公开时期，贫农都在那里积极奋斗。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 156,
+      "content": "孙中山先生致力国民革命凡四十年，所要做而没有做到的事，农民在几个月内做到了。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 157,
+      "content": "菩萨要农民自己去丢，烈女祠、节孝坊要农民自己去摧毁，别人代庖是不对的。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "群众路线",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 158,
+      "content": "注重调查！反对瞎说！",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 159,
+      "content": "我们需要'本本'，但是一定要纠正脱离实际情况的本本主义。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 160,
+      "content": "只有蠢人，才是他一个人，或者邀集一堆人，不作调查，而只是冥思苦索地'想办法'，'打主意'。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 161,
+      "content": "离开实际调查就要产生唯心的阶级估量和唯心的工作指导。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 162,
+      "content": "必须努力作实际调查，才能洗刷唯心精神。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 163,
+      "content": "工业无产阶级人数虽不多，却是中国新的生产力的代表者，是近代中国最进步的阶级，做了革命运动的领导力量。",
+      "source": "中国社会各阶级的分析",
+      "date": "一九二五年十二月一日",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#000-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%90.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 164,
+      "content": "处置游民无产者，是中国的困难的问题之一。这一批人很能勇敢奋斗，如引导得法，可以变成一种革命力量。",
+      "source": "中国社会各阶级的分析",
+      "date": "一九二五年十二月一日",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#000-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%90.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 165,
+      "content": "嘴里天天说'唤起民众'，民众起来了又害怕得要死，这和叶公好龙有什么两样！",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 166,
+      "content": "初次从事调查工作的人，要作一两回深入的调查工作。深切地了解一处地方或者一个问题了，往后调查别处地方、别个问题，便容易找到门路了。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 167,
+      "content": "真正的铜墙铁壁是什么？是群众，是千百万真心实意地拥护革命的群众。这是真正的铜墙铁壁，什么力量也打不破的，完全打不破的。",
+      "source": "关心群众生活，注意工作方法",
+      "date": "一九三四年一月二十七日",
+      "category": "群众路线",
+      "articleUrl": "https://redwisdom.xyz/reading.html#010-%E5%85%B3%E5%BF%83%E7%BE%A4%E4%BC%97%E7%94%9F%E6%B4%BB%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%B3%95.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 168,
+      "content": "革命战争是群众的战争，只有动员群众才能进行战争，只有依靠群众才能进行战争。",
+      "source": "关心群众生活，注意工作方法",
+      "date": "一九三四年一月二十七日",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#010-%E5%85%B3%E5%BF%83%E7%BE%A4%E4%BC%97%E7%94%9F%E6%B4%BB%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%B3%95.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 169,
+      "content": "一切群众的实际生活问题，都是我们应当注意的问题。",
+      "source": "关心群众生活，注意工作方法",
+      "date": "一九三四年一月二十七日",
+      "category": "群众路线",
+      "articleUrl": "https://redwisdom.xyz/reading.html#010-%E5%85%B3%E5%BF%83%E7%BE%A4%E4%BC%97%E7%94%9F%E6%B4%BB%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%B3%95.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 170,
+      "content": "要得到群众的拥护吗？要群众拿出他们的全力放到战线上去吗？那末，就得和群众在一起，就得去发动群众的积极性，就得关心群众的痛痒，就得真心实意地为群众谋利益。",
+      "source": "关心群众生活，注意工作方法",
+      "date": "一九三四年一月二十七日",
+      "category": "群众路线",
+      "articleUrl": "https://redwisdom.xyz/reading.html#010-%E5%85%B3%E5%BF%83%E7%BE%A4%E4%BC%97%E7%94%9F%E6%B4%BB%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%B3%95.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 171,
+      "content": "我们不但要提出任务，而且要解决完成任务的方法问题。我们的任务是过河，但是没有桥或没有船就不能过。不解决桥或船的问题，过河就是一句空话。",
+      "source": "关心群众生活，注意工作方法",
+      "date": "一九三四年一月二十七日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#010-%E5%85%B3%E5%BF%83%E7%BE%A4%E4%BC%97%E7%94%9F%E6%B4%BB%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%B3%95.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 172,
+      "content": "在世界上要办成几件事，没有老实态度是根本不行的。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "人格修养",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 173,
+      "content": "一切狡猾的人，不照科学态度办事的人，自以为得计，自以为很聪明，其实都是最蠢的，都是没有好结果的。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "人格修养",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 174,
+      "content": "马克思列宁主义之箭，必须用了去射中国革命之的。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 175,
+      "content": "第一是'惩前毖后'，第二是'治病救人'。对以前的错误一定要揭发，不讲情面，要以科学的态度来分析批判过去的坏东西，以便使后来的工作慎重些，做得好些。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "自我批评",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 176,
+      "content": "真正的理论在世界上只有一种，就是从客观实际抽出来又在客观实际中得到了证明的理论。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 177,
+      "content": "教条主义、经验主义，两者都是主观主义，是从不同的两极发生的东西。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 178,
+      "content": "脱离实际的理论是空洞的理论。空洞的理论是没有用的，不正确的，应该抛弃的。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 179,
+      "content": "只有使二者互相结合，才会产生好的比较完全的知识。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "思维方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 180,
+      "content": "我们学马克思列宁主义不是为着好看，也不是因为它有什么神秘，只是因为它是领导无产阶级革命事业走向胜利的科学。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 181,
+      "content": "对于马克思主义的理论，要能够精通它、应用它，精通的目的全在于应用。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

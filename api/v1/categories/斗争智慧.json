@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "category": "斗争智慧",
+  "total": 14,
+  "quotes": [
+    {
+      "id": 32,
+      "content": "在战略上要藐视敌人，在战术上要重视敌人。",
+      "source": "和美国记者安娜·路易斯·斯特朗的谈话",
+      "date": "一九四六年八月",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#101-%E5%92%8C%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E5%AE%89%E5%A8%9C%C2%B7%E8%B7%AF%E6%98%93%E6%96%AF%C2%B7%E6%96%AF%E7%89%B9%E6%9C%97%E7%9A%84%E8%B0%88%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 33,
+      "content": "凡是敌人反对的，我们就要拥护；凡是敌人拥护的，我们就要反对。",
+      "source": "和中央社、扫荡报、新民报三记者的谈话",
+      "date": "一九三九年九月十六日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#035-%E5%92%8C%E4%B8%AD%E5%A4%AE%E7%A4%BE%E3%80%81%E6%89%AB%E8%8D%A1%E6%8A%A5%E3%80%81%E6%96%B0%E6%B0%91%E6%8A%A5%E4%B8%89%E8%AE%B0%E8%80%85%E7%9A%84%E8%B0%88%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 38,
+      "content": "敌进我退，敌驻我扰，敌疲我打，敌退我追。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 40,
+      "content": "不打无准备之仗，不打无把握之仗，每战都应力求有准备，力求在敌我条件对比之下有胜利的把握。",
+      "source": "目前形势和我们的任务",
+      "date": "一九四七年十二月二十五日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#112-%E7%9B%AE%E5%89%8D%E5%BD%A2%E5%8A%BF%E5%92%8C%E6%88%91%E4%BB%AC%E7%9A%84%E4%BB%BB%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 44,
+      "content": "以斗争求团结则团结存，以退让求团结则团结亡。",
+      "source": "目前抗日统一战线中的策略问题",
+      "date": "一九四〇年三月十一日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#051-%E7%9B%AE%E5%89%8D%E6%8A%97%E6%97%A5%E7%BB%9F%E4%B8%80%E6%88%98%E7%BA%BF%E4%B8%AD%E7%9A%84%E7%AD%96%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 46,
+      "content": "对于人，伤其十指不如断其一指；对于敌，击溃其十个师不如歼灭其一个师。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 47,
+      "content": "打得赢就打，打不赢就走。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 54,
+      "content": "为了进攻而防御，为了前进而后退，为了向正面而向侧面，为了走直路而走弯路，是许多事物在发展过程中不可避免的现象。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 72,
+      "content": "分兵以发动群众，集中以应付敌人。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 73,
+      "content": "一切行动的指导原则，都根据于一个基本原则，就是尽可能地保存自己的力量，消灭敌人的力量。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 89,
+      "content": "不是东风压倒西风，就是西风压倒东风。",
+      "source": "在莫斯科共产党和工人党代表会议上的讲话",
+      "date": "一九五七年十一月十八日",
+      "category": "斗争智慧",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 118,
+      "content": "搬起石头打自己的脚，这是张伯伦政策的必然结果。",
+      "source": "新民主主义的宪政",
+      "date": "一九四○年二月二十日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#049-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E7%9A%84%E5%AE%AA%E6%94%BF.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 139,
+      "content": "我们是战争消灭论者，我们是不要战争的；但是只能经过战争去消灭战争，不要枪杆子必须拿起枪杆子。",
+      "source": "战争和战略问题",
+      "date": "一九三八年十一月六日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#029-%E6%88%98%E4%BA%89%E5%92%8C%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 142,
+      "content": "我们的革命要有不领错路和一定成功的把握，不可不注意团结我们的真正的朋友，以攻击我们的真正的敌人。",
+      "source": "中国社会各阶级的分析",
+      "date": "一九二五年十二月一日",
+      "category": "斗争智慧",
+      "articleUrl": "https://redwisdom.xyz/reading.html#000-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%90.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

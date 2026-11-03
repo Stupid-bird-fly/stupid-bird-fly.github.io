@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "category": "工作态度",
+  "total": 3,
+  "quotes": [
+    {
+      "id": 8,
+      "content": "毫不利己专门利人的精神，表现在他对工作的极端的负责任，对同志对人民的极端的热忱。",
+      "source": "纪念白求恩",
+      "date": "一九三九年十二月二十一日",
+      "category": "工作态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#042-%E7%BA%AA%E5%BF%B5%E7%99%BD%E6%B1%82%E6%81%A9.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 9,
+      "content": "对技术精益求精。",
+      "source": "纪念白求恩",
+      "date": "一九三九年十二月二十一日",
+      "category": "工作态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#042-%E7%BA%AA%E5%BF%B5%E7%99%BD%E6%B1%82%E6%81%A9.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 78,
+      "content": "什么叫工作？工作就是斗争。",
+      "source": "抗日战争胜利后的时局和我们的方针",
+      "date": "一九四五年八月十三日",
+      "category": "工作态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#089-%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89%E8%83%9C%E5%88%A9%E5%90%8E%E7%9A%84%E6%97%B6%E5%B1%80%E5%92%8C%E6%88%91%E4%BB%AC%E7%9A%84%E6%96%B9%E9%92%88.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

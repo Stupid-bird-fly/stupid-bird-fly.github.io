@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "category": "学习态度",
+  "total": 14,
+  "quotes": [
+    {
+      "id": 21,
+      "content": "知识的问题是一个科学问题，来不得半点的虚伪和骄傲，决定地需要的倒是其反面——诚实和谦逊的态度。",
+      "source": "实践论",
+      "date": "一九三七年七月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#016-%E5%AE%9E%E8%B7%B5%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 28,
+      "content": "虚心使人进步，骄傲使人落后，我们应当永远记住这个真理。",
+      "source": "中国共产党第八次全国代表大会开幕词",
+      "date": "一九五六年九月十五日",
+      "category": "学习态度",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 34,
+      "content": "好好学习，天天向上。",
+      "source": "题词",
+      "date": "一九四九年",
+      "category": "学习态度",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 60,
+      "content": "情况是逐渐了解的，需要继续不断的努力。认识世界，不是一件容易的事。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 63,
+      "content": "碰到钉子时，就向钉子学习，把别人的经验变成自己的，你的本事就大了。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 68,
+      "content": "我们要振作精神，下苦功学习。下苦功，三个字：一个叫下，一个叫苦，一个叫功。一定要振作精神，下苦功。",
+      "source": "在中国共产党全国代表会议上的讲话",
+      "date": "一九五五年三月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#199-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E4%BC%9A%E8%AE%AE%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 84,
+      "content": "读书是学习，使用也是学习，而且是更重要的学习。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 85,
+      "content": "饭可以一日不吃，觉可以一日不睡，书不可以一日不读。",
+      "source": "毛泽东",
+      "date": "",
+      "category": "学习态度",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 101,
+      "content": "学习的敌人是自己的满足，要认真学习一点东西，必须从不自满开始。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 102,
+      "content": "对自己，'学而不厌'，对人家，'诲人不倦'，我们应取这种态度。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 104,
+      "content": "科学的态度是'实事求是'，'自以为是'和'好为人师'那样狂妄的态度是决不能解决问题的。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 123,
+      "content": "马克思列宁主义是科学，科学是老老实实的学问，任何一点调皮都是不行的。我们还是老实一点吧！",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 180,
+      "content": "我们学马克思列宁主义不是为着好看，也不是因为它有什么神秘，只是因为它是领导无产阶级革命事业走向胜利的科学。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 181,
+      "content": "对于马克思主义的理论，要能够精通它、应用它，精通的目的全在于应用。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "学习态度",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

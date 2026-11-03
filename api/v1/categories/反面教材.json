@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "category": "反面教材",
+  "total": 6,
+  "quotes": [
+    {
+      "id": 16,
+      "content": "事不关己，高高挂起；明知不对，少说为佳；明哲保身，但求无过。这是第三种自由主义。",
+      "source": "反对自由主义",
+      "date": "一九三七年九月七日",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#020-%E5%8F%8D%E5%AF%B9%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 17,
+      "content": "办事不认真，无一定计划，无一定方向，敷衍了事，得过且过，做一天和尚撞一天钟。这是第九种自由主义。",
+      "source": "反对自由主义",
+      "date": "一九三七年九月七日",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#020-%E5%8F%8D%E5%AF%B9%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 120,
+      "content": "许多马克思列宁主义的学者也是言必称希腊，对于自己的祖宗，则对不住，忘记了。",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 122,
+      "content": "墙上芦苇，头重脚轻根底浅；山间竹笋，嘴尖皮厚腹中空。",
+      "source": "改造我们的学习",
+      "date": "一九四一年五月十九日",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#059-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 160,
+      "content": "只有蠢人，才是他一个人，或者邀集一堆人，不作调查，而只是冥思苦索地'想办法'，'打主意'。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 165,
+      "content": "嘴里天天说'唤起民众'，民众起来了又害怕得要死，这和叶公好龙有什么两样！",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "反面教材",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

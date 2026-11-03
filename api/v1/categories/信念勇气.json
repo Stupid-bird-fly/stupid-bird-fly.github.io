@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "category": "信念勇气",
+  "total": 14,
+  "quotes": [
+    {
+      "id": 3,
+      "content": "我们的同志在困难的时候，要看到成绩，要看到光明，要提高我们的勇气。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 10,
+      "content": "下定决心，不怕牺牲，排除万难，去争取胜利。",
+      "source": "愚公移山",
+      "date": "一九四五年六月十一日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#083-%E6%84%9A%E5%85%AC%E7%A7%BB%E5%B1%B1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 12,
+      "content": "星星之火，可以燎原。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 13,
+      "content": "它是站在海岸遥望海中已经看得见桅杆尖头了的一只航船，它是立于高山之巅远看东方已见光芒四射喷薄欲出的一轮朝日，它是躁动于母腹中的快要成熟了的一个婴儿。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 31,
+      "content": "一切反动派都是纸老虎。",
+      "source": "和美国记者安娜·路易斯·斯特朗的谈话",
+      "date": "一九四六年八月",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#101-%E5%92%8C%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E5%AE%89%E5%A8%9C%C2%B7%E8%B7%AF%E6%98%93%E6%96%AF%C2%B7%E6%96%AF%E7%89%B9%E6%9C%97%E7%9A%84%E8%B0%88%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 42,
+      "content": "自信人生二百年，会当水击三千里。",
+      "source": "水调歌头·游泳",
+      "date": "一九五六年六月",
+      "category": "信念勇气",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 50,
+      "content": "在危险环境中表示绝望的人，在黑暗中看不见光明的人，只是懦夫与机会主义者。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三○年一月五日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 66,
+      "content": "当着天空中出现乌云的时候，我们就指出：这不过是暂时的现象，黑暗即将过去，曙光即在前头。",
+      "source": "星星之火，可以燎原",
+      "date": "一九三〇年一月五日",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#005-%E6%98%9F%E6%98%9F%E4%B9%8B%E7%81%AB%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%87%8E%E5%8E%9F.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 69,
+      "content": "让他们去说我们这不行那不行吧。中国人民的不屈不挠的努力，必将稳步地达到自己的目的。",
+      "source": "开幕词",
+      "date": "一九四九年九月二十一日",
+      "category": "信念勇气",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 86,
+      "content": "数风流人物，还看今朝。",
+      "source": "沁园春·雪",
+      "date": "一九三六年二月",
+      "category": "信念勇气",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 92,
+      "content": "敌军围困万千重，我自岿然不动。",
+      "source": "西江月·井冈山",
+      "date": "一九二八年秋",
+      "category": "信念勇气",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 95,
+      "content": "俱往矣，数风流人物，还看今朝。",
+      "source": "沁园春·雪",
+      "date": "一九三六年二月",
+      "category": "信念勇气",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 112,
+      "content": "新中国站在每个人民的面前，我们应该迎接它。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 135,
+      "content": "抗日战争是持久战，最后胜利是中国的——这就是我们的结论。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "信念勇气",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

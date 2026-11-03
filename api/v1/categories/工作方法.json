@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "category": "工作方法",
+  "total": 17,
+  "quotes": [
+    {
+      "id": 24,
+      "content": "没有调查，没有发言权。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 39,
+      "content": "凡事预则立，不预则废。没有事先的计划和准备，就不能获得战争的胜利。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 45,
+      "content": "调查就像十月怀胎，解决问题就像一朝分娩。",
+      "source": "反对本本主义",
+      "date": "一九三〇年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 49,
+      "content": "不论做什么事，不懂得那件事的情形，它的性质，它和它以外的事情的关联，就不知道那件事的规律，就不知道如何去做，就不能做好那件事。",
+      "source": "中国革命战争的战略问题",
+      "date": "一九三六年十二月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#012-%E4%B8%AD%E5%9B%BD%E9%9D%A9%E5%91%BD%E6%88%98%E4%BA%89%E7%9A%84%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 53,
+      "content": "睡眠和休息丧失了时间，却取得了明天工作的精力。如果有什么蠢人，不知此理，拒绝睡觉，他明天就没有精神了，这是蚀本生意。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 55,
+      "content": "要人家服，只能说服，不能压服。压服的结果，总是压而不服。",
+      "source": "在中国共产党全国宣传工作会议上的讲话",
+      "date": "一九五七年三月十二日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#217-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%A8%E5%9B%BD%E5%AE%A3%E4%BC%A0%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 62,
+      "content": "从最坏的可能性着想，总不吃亏。不论任何工作，我们都要从最坏的可能性来想，来部署。",
+      "source": "论联合政府",
+      "date": "一九四五年四月二十四日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#082-%E8%AE%BA%E8%81%94%E5%90%88%E6%94%BF%E5%BA%9C.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 98,
+      "content": "政治路线确定之后，干部就是决定的因素。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 99,
+      "content": "必须善于识别干部。不但要看干部的一时一事，而且要看干部的全部历史和全部工作。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 100,
+      "content": "任人唯贤的路线是正派的路线，任人唯亲的路线是不正派的路线。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 147,
+      "content": "调查就像十月怀胎，解决问题就像一朝分娩。调查就是解决问题。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 148,
+      "content": "你对于某个问题没有调查，就停止你对于某个问题的发言权。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 150,
+      "content": "迈开你的两脚，到你的工作范围的各部分各地方去走走，学个孔夫子的'每事问'。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 153,
+      "content": "凡担负指导工作的人，一定都要亲身从事社会经济的实际调查，不能单靠书面报告，因为二者是两回事。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 158,
+      "content": "注重调查！反对瞎说！",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 166,
+      "content": "初次从事调查工作的人，要作一两回深入的调查工作。深切地了解一处地方或者一个问题了，往后调查别处地方、别个问题，便容易找到门路了。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 171,
+      "content": "我们不但要提出任务，而且要解决完成任务的方法问题。我们的任务是过河，但是没有桥或没有船就不能过。不解决桥或船的问题，过河就是一句空话。",
+      "source": "关心群众生活，注意工作方法",
+      "date": "一九三四年一月二十七日",
+      "category": "工作方法",
+      "articleUrl": "https://redwisdom.xyz/reading.html#010-%E5%85%B3%E5%BF%83%E7%BE%A4%E4%BC%97%E7%94%9F%E6%B4%BB%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%B3%95.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

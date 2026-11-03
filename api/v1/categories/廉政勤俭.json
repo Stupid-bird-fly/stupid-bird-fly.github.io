@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "category": "廉政勤俭",
+  "total": 1,
+  "quotes": [
+    {
+      "id": 35,
+      "content": "贪污和浪费是极大的犯罪。",
+      "source": "我们的经济政策",
+      "date": "一九三四年一月",
+      "category": "廉政勤俭",
+      "articleUrl": "https://redwisdom.xyz/reading.html#009-%E6%88%91%E4%BB%AC%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

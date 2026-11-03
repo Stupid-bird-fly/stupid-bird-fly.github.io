@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "category": "人民观点",
+  "total": 12,
+  "quotes": [
+    {
+      "id": 26,
+      "content": "人民，只有人民，才是创造世界历史的动力。",
+      "source": "论联合政府",
+      "date": "一九四五年四月二十四日",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#082-%E8%AE%BA%E8%81%94%E5%90%88%E6%94%BF%E5%BA%9C.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 127,
+      "content": "武器是战争的重要的因素，但不是决定的因素，决定的因素是人不是物。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 128,
+      "content": "战争的伟力之最深厚的根源，存在于民众之中。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 129,
+      "content": "动员了全国的老百姓，就造成了陷敌于灭顶之灾的汪洋大海。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 134,
+      "content": "兵民是胜利之本。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 145,
+      "content": "很短的时间内，将有几万万农民从中国中部、南部和北部各省起来，其势如暴风骤雨，迅猛异常，无论什么大的力量都将压抑不住。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 154,
+      "content": "没有贫农，便没有革命。若否认他们，便是否认革命。若打击他们，便是打击革命。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 155,
+      "content": "乡村中一向苦战奋斗的主要力量是贫农。从秘密时期到公开时期，贫农都在那里积极奋斗。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 156,
+      "content": "孙中山先生致力国民革命凡四十年，所要做而没有做到的事，农民在几个月内做到了。",
+      "source": "湖南农民运动考察报告",
+      "date": "一九二七年三月",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#001-%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 163,
+      "content": "工业无产阶级人数虽不多，却是中国新的生产力的代表者，是近代中国最进步的阶级，做了革命运动的领导力量。",
+      "source": "中国社会各阶级的分析",
+      "date": "一九二五年十二月一日",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#000-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%90.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 164,
+      "content": "处置游民无产者，是中国的困难的问题之一。这一批人很能勇敢奋斗，如引导得法，可以变成一种革命力量。",
+      "source": "中国社会各阶级的分析",
+      "date": "一九二五年十二月一日",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#000-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E7%9A%84%E5%88%86%E6%9E%90.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 168,
+      "content": "革命战争是群众的战争，只有动员群众才能进行战争，只有依靠群众才能进行战争。",
+      "source": "关心群众生活，注意工作方法",
+      "date": "一九三四年一月二十七日",
+      "category": "人民观点",
+      "articleUrl": "https://redwisdom.xyz/reading.html#010-%E5%85%B3%E5%BF%83%E7%BE%A4%E4%BC%97%E7%94%9F%E6%B4%BB%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%B3%95.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "category": "人生价值",
+  "total": 2,
+  "quotes": [
+    {
+      "id": 1,
+      "content": "为人民利益而死，就比泰山还重。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "人生价值",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 4,
+      "content": "要奋斗就会有牺牲，死人的事是经常发生的。但是我们想到人民的利益，想到大多数人民的痛苦，我们为人民而死，就是死得其所。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "人生价值",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

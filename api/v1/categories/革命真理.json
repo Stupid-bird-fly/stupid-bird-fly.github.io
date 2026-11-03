@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "category": "革命真理",
+  "total": 2,
+  "quotes": [
+    {
+      "id": 76,
+      "content": "枪杆子里面出政权。",
+      "source": "《共产党》发刊词",
+      "date": "一九二七年八月七日",
+      "category": "革命真理",
+      "articleUrl": null,
+      "sourceMatch": "unmatched"
+    },
+    {
+      "id": 138,
+      "content": "须知政权是由枪杆子中取得的。",
+      "source": "战争和战略问题",
+      "date": "一九三八年十一月六日",
+      "category": "革命真理",
+      "articleUrl": "https://redwisdom.xyz/reading.html#029-%E6%88%98%E4%BA%89%E5%92%8C%E6%88%98%E7%95%A5%E9%97%AE%E9%A2%98.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "category": "自我批评",
+  "total": 2,
+  "quotes": [
+    {
+      "id": 6,
+      "content": "因为我们是为人民服务的，所以，我们如果有缺点，就不怕别人批评指出。不管是什么人，谁向我们指出都行。只要你说得对，我们就改正。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "自我批评",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 175,
+      "content": "第一是'惩前毖后'，第二是'治病救人'。对以前的错误一定要揭发，不讲情面，要以科学的态度来分析批判过去的坏东西，以便使后来的工作慎重些，做得好些。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "自我批评",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

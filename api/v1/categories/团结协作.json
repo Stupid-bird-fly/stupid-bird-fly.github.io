@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "category": "团结协作",
+  "total": 5,
+  "quotes": [
+    {
+      "id": 2,
+      "content": "我们都是来自五湖四海，为了一个共同的革命目标，走到一起来了。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "团结协作",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 5,
+      "content": "一切革命队伍的人都要互相关心，互相爱护，互相帮助。",
+      "source": "为人民服务",
+      "date": "一九四四年九月八日",
+      "category": "团结协作",
+      "articleUrl": "https://redwisdom.xyz/reading.html#076-%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 37,
+      "content": "团结一切可以团结的力量。",
+      "source": "论十大关系",
+      "date": "一九五六年四月二十五日",
+      "category": "团结协作",
+      "articleUrl": "https://redwisdom.xyz/reading.html#209-%E8%AE%BA%E5%8D%81%E5%A4%A7%E5%85%B3%E7%B3%BB.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 131,
+      "content": "日本敢于欺负我们，主要的原因在于中国民众的无组织状态。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "团结协作",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 140,
+      "content": "只要我们能团结，这个目的就一定能够达到。",
+      "source": "中国共产党在民族战争中的地位",
+      "date": "一九三八年十月十四日",
+      "category": "团结协作",
+      "articleUrl": "https://redwisdom.xyz/reading.html#027-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%9C%A8%E6%B0%91%E6%97%8F%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "category": "实践精神",
+  "total": 10,
+  "quotes": [
+    {
+      "id": 20,
+      "content": "你要知道梨子的滋味，你就得变革梨子，亲口吃一吃。",
+      "source": "实践论",
+      "date": "一九三七年七月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#016-%E5%AE%9E%E8%B7%B5%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 23,
+      "content": "不入虎穴，焉得虎子。这句话对于人们的实践是真理，对于认识论也是真理。",
+      "source": "实践论",
+      "date": "一九三七年七月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#016-%E5%AE%9E%E8%B7%B5%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 48,
+      "content": "如果有了正确的理论，只是把它空谈一阵，束之高阁，并不实行，那么这种理论再好也是没有意义的。",
+      "source": "实践论",
+      "date": "一九三七年七月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#016-%E5%AE%9E%E8%B7%B5%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 57,
+      "content": "世界上的事情都是这样的，钟不敲是不响的，桌子不搬是不走的。",
+      "source": "在中国共产党全国代表会议上的讲话",
+      "date": "一九五五年三月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#199-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E4%BC%9A%E8%AE%AE%E4%B8%8A%E7%9A%84%E8%AE%B2%E8%AF%9D.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 105,
+      "content": "真理只有一个，而究竟谁发现了真理，不依靠主观的夸张，而依靠客观的实践。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 106,
+      "content": "只有千百万人民的革命实践，才是检验真理的尺度。",
+      "source": "新民主主义论",
+      "date": "一九四○年一月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#043-%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%AE%BA.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 133,
+      "content": "一切事情是要人做的，持久战和最后胜利没有人做就不会出现。做就必须先有人根据客观事实，引出思想、道理、意见，提出计划、方针、政策、战略、战术。",
+      "source": "论持久战",
+      "date": "一九三八年五月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#026-%E8%AE%BA%E6%8C%81%E4%B9%85%E6%88%98.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 152,
+      "content": "中国革命斗争的胜利要靠中国同志了解中国情况。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 162,
+      "content": "必须努力作实际调查，才能洗刷唯心精神。",
+      "source": "反对本本主义",
+      "date": "一九三○年五月",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#006-%E5%8F%8D%E5%AF%B9%E6%9C%AC%E6%9C%AC%E4%B8%BB%E4%B9%89.md",
+      "sourceMatch": "catalog-title"
+    },
+    {
+      "id": 178,
+      "content": "脱离实际的理论是空洞的理论。空洞的理论是没有用的，不正确的，应该抛弃的。",
+      "source": "整顿党的作风",
+      "date": "一九四二年二月一日",
+      "category": "实践精神",
+      "articleUrl": "https://redwisdom.xyz/reading.html#063-%E6%95%B4%E9%A1%BF%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E.md",
+      "sourceMatch": "catalog-title"
+    }
+  ]
+}

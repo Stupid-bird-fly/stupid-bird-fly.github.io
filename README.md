@@ -21,7 +21,7 @@
 2. 在 iOS 桌面添加 Scriptable 小组件，选择此脚本。推荐中号；小号和大号也可使用。
 3. 如需限定分类，在小组件参数中填写 `categories.json` 所列的**完整分类名称**，例如 `思维方法`。留空表示全部分类。
 
-脚本优先请求 `https://stupid-bird-fly.github.io/api/v1/quotes.json`，失败后尝试 GitHub Raw 地址。脚本按设备的本地日期选取当天语录，同一天保持稳定；使用本地缓存，在网络暂时不可用时继续显示上次成功获取的数据。首次运行且网络不可用时会显示错误卡片。小号组件优先轮换较短的语录；想看到更多长句可使用中号或大号。组件刷新时间由 iOS 决定，不能保证午夜立即换卡。[Scriptable 文档](https://docs.scriptable.app/listwidget/)也说明 `refreshAfterDate` 只表示最早可刷新时间。
+脚本优先请求 `https://yuanit.vip/api/v1/quotes.json`，失败后尝试 GitHub Raw 地址。脚本按设备的本地日期选取当天语录，同一天保持稳定；使用本地缓存，在网络暂时不可用时继续显示上次成功获取的数据。首次运行且网络不可用时会显示错误卡片。小号组件优先轮换较短的语录；想看到更多长句可使用中号或大号。组件刷新时间由 iOS 决定，不能保证午夜立即换卡。[Scriptable 文档](https://docs.scriptable.app/listwidget/)也说明 `refreshAfterDate` 只表示最早可刷新时间。
 
 ## 更新数据与验证
 
@@ -36,4 +36,4 @@ node --test tests/*.test.mjs
 
 ## 发布检查
 
-本地生成文件不会自动上线。需要确认 GitHub Pages 的发布源包含仓库根目录的 `api/`，发布后再访问 `/api/v1/quotes.json` 检查 JSON 响应。仓库当前的 `CNAME` 指向 `yuanit.vip`；若使用此域名，还需确认 DNS 和 HTTPS 证书正常。2026-11-03 对该域名进行的 HTTPS 请求出现证书域名不匹配，故脚本优先使用 `stupid-bird-fly.github.io` 地址。
+更新数据后需要提交并发布生成的 JSON 文件。确认 GitHub Pages 的发布源包含仓库根目录的 `api/`，再访问 `https://yuanit.vip/api/v1/quotes.json` 检查 JSON 响应。仓库的 `CNAME` 指向 `yuanit.vip`；如果以后更换域名，应同步修改脚本中的主地址。2026-11-03 验证时，该自定义域名的 HTTPS 请求返回了与本地相同的 JSON。

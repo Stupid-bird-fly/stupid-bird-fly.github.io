@@ -2,7 +2,7 @@
 // 桌面组件的 Parameter 可填写分类名称，例如「思维方法」；留空显示全部分类。
 
 const API_URLS = [
-  'https://stupid-bird-fly.github.io/api/v1/quotes.json',
+  'https://yuanit.vip/api/v1/quotes.json',
   'https://raw.githubusercontent.com/Stupid-bird-fly/stupid-bird-fly.github.io/main/api/v1/quotes.json',
 ];
 const CACHE_FILE = 'mao-quote-card-cache-v1.json';
